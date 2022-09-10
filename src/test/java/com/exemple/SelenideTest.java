@@ -22,7 +22,7 @@ public class SelenideTest {
         $(".header-search-input").sendKeys("selenide");
         $(".header-search-input").submit();
 
-        $(linkText("selenide/ selenide")).click();
+        $(linkText("selenide/selenide")).click();
         $("#issues-tab").click();
         $(withText("#1946")).should(Condition.exist);
     }
