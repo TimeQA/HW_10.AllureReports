@@ -24,6 +24,6 @@ public class SelenideTest {
 
         $(linkText("selenide/selenide")).click();
         $("#issues-tab").click();
-        $(withText("#1946")).should(Condition.exist);
+        $(withText("#1946")).shouldBe(Condition.visible);
     }
 }
