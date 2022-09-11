@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Sep 11 08:41:00 GMT 2022","Sun Sep 11 08:41:00 GMT 2022","2","","com.exemple.LabelsTest","","com.exemple.LabelsTest","testStaticLabels","Создание Issue для авторизованного пользователя",""
+"passed","Sun Sep 11 08:40:56 GMT 2022","Sun Sep 11 08:41:00 GMT 2022","3639","","com.exemple.AttachmentsTest","","com.exemple.AttachmentsTest","testAnnotatedAttachments","testAnnotatedAttachments()",""
+"passed","Sun Sep 11 08:41:00 GMT 2022","Sun Sep 11 08:41:00 GMT 2022","2","","com.exemple.LabelsTest","","com.exemple.LabelsTest","testDynamicLabels","Создание Issue для авторизованного пользователя",""
+"passed","Sun Sep 11 08:41:07 GMT 2022","Sun Sep 11 08:41:11 GMT 2022","4117","","com.exemple.StepsTest","","com.exemple.StepsTest","testAnnotatedStep","testAnnotatedStep()",""
+"passed","Sun Sep 11 08:41:00 GMT 2022","Sun Sep 11 08:41:07 GMT 2022","6626","","com.exemple.SelenideTest","","com.exemple.SelenideTest","testIssueSearch","testIssueSearch()",""
+"passed","Sun Sep 11 08:40:50 GMT 2022","Sun Sep 11 08:40:56 GMT 2022","6339","","com.exemple.AttachmentsTest","","com.exemple.AttachmentsTest","testLambdaAttachments","testLambdaAttachments()",""
+"passed","Sun Sep 11 08:41:11 GMT 2022","Sun Sep 11 08:41:14 GMT 2022","2621","","com.exemple.StepsTest","","com.exemple.StepsTest","testLambdaStep","testLambdaStep()",""
